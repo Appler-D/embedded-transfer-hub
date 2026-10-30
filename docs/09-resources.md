@@ -2,6 +2,19 @@
 
 > 一条原则：一门主课 + 一块板子 + 一个项目。收藏不等于学会。
 
+## 零、浙农林官方（转专业/培养方案）
+
+- 教务处通知公告：https://jwc.zafu.edu.cn/tzgg.htm
+- 2026-10-26 报送计划通知（本轮面向 2025 级）：https://jwc.zafu.edu.cn/info/1012/9972.htm
+- 2025-11-21 受理 2024 级通知（报名窗口参考）：https://jwc.zafu.edu.cn/info/1012/9721.htm
+- 光机电 2026-06-18 转专业面试通知（GPA 70% + 面试 30%）：https://gjdxy.zafu.edu.cn/info/1083/7717.htm
+- 光机电 2025-06-09 面试工作总结（86 人、考核组、个人陈述+问答）：https://gjdxy.zafu.edu.cn/info/1082/7084.htm
+- 2026-2027 第一学期转专业结果（371 人）：https://jwc.zafu.edu.cn/info/1012/9932.htm
+- 电子信息工程培养方案：https://gjdxy.zafu.edu.cn/info/1026/1013.htm
+- 光机电通知公告：https://gjdxy.zafu.edu.cn/index/tzgg.htm
+
+> GitHub 上没有找到有意义的“浙农林转专业经验”仓库；ZAFU 相关仓库多为工具类。转专业信息以教务处/学院官方通知为准，详见 [12-zafu-transfer-playbook.md](12-zafu-transfer-playbook.md)。
+
 ## 一、系统路线与清单
 
 | 资源 | 说明 |

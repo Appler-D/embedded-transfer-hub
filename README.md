@@ -11,6 +11,15 @@
 2. [怎么造手机](docs/05-how-a-phone-is-made.md) — 芯片、屏幕、电池、软件、制造与供应链
 3. [转专业面试问答](docs/06-interview-qa.md) — 25 个问题与回答结构
 
+## 浙农林转专业专用（时间敏感）
+
+> 2026-10-26 教务处已启动面向 **2025 级**的新一轮转专业；按 2024 级节奏，学生报名可能在 11 月下旬–12 月初。以教务处最新通知为准。
+
+- [12 浙农林转专业攻略](docs/12-zafu-transfer-playbook.md)：官方时间线、GPA 70% + 面试 30%、资格限制、行动清单。
+- [13 3 分钟自述逐字稿](docs/13-zafu-3min-script.md)：按光机电官方六个采分点写，含时间分配与追问。
+- [光机电 2026-06-18 面试通知](https://gjdxy.zafu.edu.cn/info/1083/7717.htm)：3 分钟中文自述、5–7 分钟、三组线下、面试 <60 不录取。
+- [教务处 2026-10-26 通知](https://jwc.zafu.edu.cn/info/1012/9972.htm)：本轮面向 2025 级，学院 10/30 前报计划。
+
 ## 7 天急救包
 
 | 天 | 做什么 | 产出 |
@@ -39,6 +48,8 @@
 | [09 资源](docs/09-resources.md) | 课程、书、仿真器、GitHub 清单 |
 | [10 术语](docs/10-glossary.md) | 中英对照，面试不卡词 |
 | [11 演示脚本](docs/11-demo-script.md) | 3 分钟项目演示与录制 |
+| [12 浙农林转专业攻略](docs/12-zafu-transfer-playbook.md) | 官方时间线、GPA/面试规则、资格与行动清单 |
+| [13 浙农林 3 分钟自述](docs/13-zafu-3min-script.md) | 按官方六个采分点写的逐字稿模板 |
 | [PROGRESS.md](PROGRESS.md) | 自己的进度与每周记录 |
 | [notes/TEMPLATE.md](notes/TEMPLATE.md) | 实验笔记模板 |
 | [projects/](projects/) | 项目代码与文档模板 |
