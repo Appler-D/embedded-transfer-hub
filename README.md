@@ -50,6 +50,7 @@
 | [11 演示脚本](docs/11-demo-script.md) | 3 分钟项目演示与录制 |
 | [12 浙农林转专业攻略](docs/12-zafu-transfer-playbook.md) | 官方时间线、GPA/面试规则、资格与行动清单 |
 | [13 浙农林 3 分钟自述](docs/13-zafu-3min-script.md) | 按官方六个采分点写的逐字稿模板 |
+| [14 游戏服务端路径](docs/14-game-server-path.md) | 从 EE 到游戏服务端/后端的差距、项目与补法 |
 | [PROGRESS.md](PROGRESS.md) | 自己的进度与每周记录 |
 | [notes/TEMPLATE.md](notes/TEMPLATE.md) | 实验笔记模板 |
 | [projects/](projects/) | 项目代码与文档模板 |
