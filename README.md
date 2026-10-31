@@ -59,6 +59,7 @@
 | [notes/TEMPLATE.md](notes/TEMPLATE.md) | 实验笔记模板 |
 | [projects/](projects/) | 项目代码与文档模板 |
 | [tools/interview_timer.py](tools/interview_timer.py) | 3 分钟自述分段计时器 |
+| [tools/mock_questions.py](tools/mock_questions.py) | 随机抽转专业面试题 |
 
 ## 12 周路线（摘要）
 
