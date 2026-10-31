@@ -61,6 +61,7 @@
 | [tools/interview_timer.py](tools/interview_timer.py) | 3 分钟自述分段计时器 |
 | [tools/mock_questions.py](tools/mock_questions.py) | 随机抽转专业面试题 |
 | [tools/score_interview.py](tools/score_interview.py) | 模拟面试 7 维打分 |
+| [launcher/](launcher/) | Windows 桌面启动器（Hub 菜单） |
 
 ## 12 周路线（摘要）
 
