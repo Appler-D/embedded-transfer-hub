@@ -126,6 +126,14 @@
 
 每项 1–5 分；低于 3 分要重练。
 
+打分工具（仓库根目录）：
+
+```bash
+python tools/score_interview.py
+# 看示例输出
+python tools/score_interview.py --demo
+```
+
 | 维度 | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
 | 动机真实、不贬低原专业 |  |  |  |  |  |
