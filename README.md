@@ -51,6 +51,10 @@
 | [12 浙农林转专业攻略](docs/12-zafu-transfer-playbook.md) | 官方时间线、GPA/面试规则、资格与行动清单 |
 | [13 浙农林 3 分钟自述](docs/13-zafu-3min-script.md) | 按官方六个采分点写的逐字稿模板 |
 | [14 游戏服务端路径](docs/14-game-server-path.md) | 从 EE 到游戏服务端/后端的差距、项目与补法 |
+| [15 模拟面试](docs/15-mock-interview.md) | 三场完整对话 + 打分表 |
+| [16 课程地图](docs/16-course-map.md) | EE 课程一句话 + 学习顺序 + 方向选课 |
+| [17 30 天计划](docs/17-30-day-plan.md) | 转专业冲刺版周计划 |
+| [18 FAQ](docs/18-faq.md) | 转专业/四级/项目/方向常见问题 |
 | [PROGRESS.md](PROGRESS.md) | 自己的进度与每周记录 |
 | [notes/TEMPLATE.md](notes/TEMPLATE.md) | 实验笔记模板 |
 | [projects/](projects/) | 项目代码与文档模板 |
