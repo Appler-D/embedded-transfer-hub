@@ -82,22 +82,22 @@ function Invoke-HubAction {
 
 $script:form = New-Object System.Windows.Forms.Form
 $script:form.Text = "Embedded Transfer Hub"
-$script:form.Size = New-Object System.Drawing.Size(460, 470)
+$script:form.Size = [System.Drawing.Size]::new(460, 470)
 $script:form.StartPosition = "CenterScreen"
 $script:form.FormBorderStyle = "FixedSingle"
 $script:form.MaximizeBox = $false
 
 $title = New-Object System.Windows.Forms.Label
 $title.Text = "转专业 / 嵌入式学习 Hub"
-$title.Font = New-Object System.Drawing.Font("Microsoft YaHei UI", 14, [System.Drawing.FontStyle]::Bold)
-$title.Location = New-Object System.Drawing.Point(24, 18)
-$title.Size = New-Object System.Drawing.Size(400, 34)
+$title.Font = [System.Drawing.Font]::new("Microsoft YaHei UI", 14, [System.Drawing.FontStyle]::Bold)
+$title.Location = [System.Drawing.Point]::new(24, 18)
+$title.Size = [System.Drawing.Size]::new(400, 34)
 $script:form.Controls.Add($title)
 
 $subtitle = New-Object System.Windows.Forms.Label
 $subtitle.Text = "抽题 → 计时 → 打分 → 复盘"
-$subtitle.Location = New-Object System.Drawing.Point(26, 54)
-$subtitle.Size = New-Object System.Drawing.Size(400, 22)
+$subtitle.Location = [System.Drawing.Point]::new(26, 54)
+$subtitle.Size = [System.Drawing.Size]::new(400, 22)
 $script:form.Controls.Add($subtitle)
 
 $actions = @(
@@ -116,8 +116,8 @@ foreach ($action in $actions) {
     $button = New-Object System.Windows.Forms.Button
     $button.Text = $action.Text
     $button.Tag = $action.Tag
-    $button.Location = New-Object System.Drawing.Point(24, $y)
-    $button.Size = New-Object System.Drawing.Size(400, 34)
+    $button.Location = [System.Drawing.Point]::new(24, $y)
+    $button.Size = [System.Drawing.Size]::new(400, 34)
     $button.Add_Click({ Invoke-HubAction -Tag $this.Tag })
     $script:form.Controls.Add($button)
     $y += 42
@@ -125,8 +125,8 @@ foreach ($action in $actions) {
 
 $footer = New-Object System.Windows.Forms.Label
 $footer.Text = "需要 Python 3.11+；计时/抽题/打分工具只用标准库"
-$footer.Location = New-Object System.Drawing.Point(24, $y + 4)
-$footer.Size = New-Object System.Drawing.Size(400, 40)
+$footer.Location = [System.Drawing.Point]::new(24, $y + 4)
+$footer.Size = [System.Drawing.Size]::new(400, 40)
 $footer.ForeColor = [System.Drawing.Color]::DimGray
 $script:form.Controls.Add($footer)
 
